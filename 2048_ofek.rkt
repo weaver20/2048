@@ -1,5 +1,5 @@
 
-(define (build n) ; Helper function: build row of ziros                       
+(define (build n) ; Helper function: build row of zeros                       
   (cond ((= n 0) '())
         (else (cons 0 (build (- n 1))))))
 
