@@ -11,3 +11,5 @@ HOW TO PLAY:
    * Run the function (2048Game) in order to run the game.
    * Insert D in order to slide the tiles down, U in order to slide it up, L in order to slide it left and D in order to slide it down.
    * When two tiles with the same number touch, they merge into one!
+
+In order to run the game please download DrRacket IDE in the following link: https://racket-lang.org/
