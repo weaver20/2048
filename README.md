@@ -1,4 +1,4 @@
-![Racket Logo](https://upload.wikimedia.org/wikipedia/en/c/c3/Racket_%28programming_language%29_logo.png)
+![Racket Logo]([https://upload.wikimedia.org/wikipedia/en/c/c3/Racket_%28programming_language%29_logo.png](https://racket-lang.org/img/racket-logo.svg))
 
 A functional Racket implementation of the classic [2048 game](https://en.wikipedia.org/wiki/2048_(video_game)), created as a personal side project to explore functional programming concepts in Racket.
 
